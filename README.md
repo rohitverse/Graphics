@@ -1,1 +1,1 @@
-# Graphics-CLG
+# Computer Graphics Using C++
