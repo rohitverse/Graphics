@@ -5,13 +5,12 @@
 using namespace std;
 int main()
 {
-    // clrscr();
     int gd = DETECT, gm;
     int x, y;
     cout << "Enter the co-ordinate : ";
     cin >> x >> y;
     initgraph(&gd, &gm, NULL);
-    putpixel(x, y, 4);
+    putpixel(x, y, 400);
     getch();
     closegraph();
 }

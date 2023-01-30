@@ -5,7 +5,6 @@
 using namespace std;
 int main()
 {
-    // clrscr();
     int gd = DETECT, gm;
     int x1, y1, r;
     cout << "Enter the co-ordinate :";
